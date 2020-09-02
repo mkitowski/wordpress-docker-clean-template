@@ -1,4 +1,5 @@
-##Wordpress with clean react theme
+Wordpress with clean react theme
+---
 
 it is clean template of Wordpress with empty react theme for local development based on Docker and react-create-wptheme
 
